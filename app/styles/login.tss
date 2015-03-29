@@ -1,0 +1,19 @@
+'#homeView' : {
+	visible : true,
+	top : '90dp',
+	layout: 'verticle',
+	backgroundColor : 'transparent'
+},
+'#hvButtonContainer' : {
+	top:'20dp',
+	width:'150',
+	height:Ti.UI.SIZE,
+	layout: 'vertical'
+},
+'#welcomeText' : {
+	text : "Welcome Text Goes Here For App",
+	font: {
+		fontSize:'24dp',
+		fontWeight:'bold'
+	}
+},
